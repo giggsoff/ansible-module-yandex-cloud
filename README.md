@@ -156,7 +156,7 @@ OPTIONS (= is mandatory):
 - zone_id
         Availability zone id.
         [Default: ru-central1-a]
-        choises: ru-central1-a, ru-central1-b, ru-central1-c
+        choises: ru-central1-a, ru-central1-b, ru-central1-c, ru-central1-d
         type: str
 
 

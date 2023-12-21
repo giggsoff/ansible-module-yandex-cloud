@@ -75,6 +75,7 @@ options:
             - ru-central1-a
             - ru-central1-b
             - ru-central1-c
+            - ru-central1-d
     active_operations_limit_timeout:
         type: integer
         description: "Active operations limit timeout in seconds"
